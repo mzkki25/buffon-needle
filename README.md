@@ -4,7 +4,7 @@ Metode ini menggunakan jarum Buffon, yaitu seutas jarum yang dilemparkan secara 
 
 Dari percobaan tersebut, dapat diperoleh suatu persamaan yang dapat digunakan untuk memperkirakan nilai pi, yaitu:
 
-π ≈ 2L/(n*d)
+π ≈ 2L*N/(n*d)
 
 dimana L adalah panjang jarum, n adalah jumlah jarum yang dilemparkan, dan d adalah jarak antara garis-garis yang sejajar.
 
